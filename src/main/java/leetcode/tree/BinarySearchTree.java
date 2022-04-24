@@ -39,6 +39,5 @@ public class BinarySearchTree {
             inorderRec(root.left);
         }
     }
-
 }
 
